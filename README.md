@@ -34,3 +34,4 @@ Bu proje, hava durumu bilgilerini gösteren basit bir web uygulamasını içerir
 
 © 2023 Hava Durumu Uygulaması. Geliştirici: [ Salih Avci ](https://github.com/avcisalih)
 
+![](weather.gif)
